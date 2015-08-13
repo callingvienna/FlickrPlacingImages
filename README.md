@@ -6,6 +6,7 @@ Find the location at which a photo was taken, based on reference flickr photos.
 A current version can be found at java.kersj.es/pae
 
 The two files that are needed are called: tag.input and photoID original.input
+
 You find there in this repository.
 
 ===================================================================================
