@@ -1,5 +1,5 @@
 # FlickrPlacingImages
-Find the location at which a photo was taken, based on reference flickr photos.
+Find the location at which a photo was taken (on the basis of tags), based on reference flickr photos.
 
 ===================================================================================
 
